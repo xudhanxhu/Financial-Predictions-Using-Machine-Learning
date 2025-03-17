@@ -1,4 +1,4 @@
-# 📈 Stroke Prediction - Machine Learning & Deep Learning
+# 📈 Financial Prediction - Machine Learning & Deep Learning
 
 ## 📌 Overview
 The **financial prediction model** designed to accurately forecast cryptocurrency prices using a combination of **LSTM networks, Attention Mechanisms, and Convolutional Layers**. Built with **TensorFlow/Keras**, it leverages **feature engineering, hyperparameter tuning, and predictive uncertainty estimation** to provide robust and reliable predictions.
